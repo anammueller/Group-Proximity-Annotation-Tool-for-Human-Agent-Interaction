@@ -35,6 +35,13 @@ Install required libraries: pip install opencv-python pandas
 	4.	Input a note (optional)
 	5.	Annotate proximity zone for each person at each interval (i, p, s, or x)
 
+ ### 💡 Zone Legend
+i – intimate
+p – personal
+s – social
+x – off-screen / left the area
+
+
 Results are saved to analysis_results.xlsx in the selected folder.
 
 # License
