@@ -20,6 +20,7 @@ Designed to support **frame-based manual coding**, this tool allows researchers 
 ## 📦 Dependencies
 
 Install required libraries: pip install opencv-python pandas
+GPTA was tested with Python 3.13.1
 
 ## 🛠 Features
 -	📽 Video playback with adjustable speed
