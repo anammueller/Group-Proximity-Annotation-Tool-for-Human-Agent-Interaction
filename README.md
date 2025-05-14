@@ -1,5 +1,5 @@
 # Group-Proximity-Annotation-Tool-for-Human-Agent-Interaction
-This Python-based tool allows for manual video annotation of group interactions, specifically designed for analyzing spatial behavior in Human-Robot Interaction (HRI) and Human-Agent Interaction, social dynamics and proximity studies. It was developed for studies on **group-agent interactions** and allows manual annotation of proximity zones based on Hall’s proxemic theory (intimate, personal, social, + off-screen).
+This Python-based tool allows for manual video annotation of group interactions, specifically designed for analyzing spatial behavior in Human-Robot Interaction (HRI) and Human-Agent Interaction, social dynamics and proximity studies. It was developed for studies on **group-agent interactions** and allows manual annotation of proximity zones based on Hall’s proxemic theory [1] (intimate, personal, social, + off-screen).
 
 ## 🖱 Demo
 
@@ -52,6 +52,10 @@ x – off-screen / left the area
 
 
 Results are saved to analysis_results.xlsx in the selected folder.
+
+### References 
+
+[1] E. T. Hall, The Hidden Dimension. Doubleday, 1966.
 
 # License
 
