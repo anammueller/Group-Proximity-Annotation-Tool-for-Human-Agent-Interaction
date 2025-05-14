@@ -5,6 +5,8 @@ This Python-based tool allows for manual video annotation of group interactions,
 
 Here's how the GPAT works
 
+The person shown in the video is not a study participant, but a colleague who interacted with the Furhat robot for demonstration purposes. The interaction was recorded in summer 2024 at the Deutsches Museum Bonn during one of the two field studies in which the GPAT was used. The video shows the interaction from two different camera perspectives.
+
 ![Group-Proximity-Annotation-Tool-for-Human-Agent-Interaction](Demo_Video_GPAT_reduced.gif)
 
 ## 🎯 Purpose
