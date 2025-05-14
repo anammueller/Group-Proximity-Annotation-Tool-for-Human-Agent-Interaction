@@ -3,7 +3,7 @@ This Python-based tool allows for manual video annotation of group interactions,
 
 ## 🖱 Demo
 
-Here's how the Group Perception Canvas works in practice (Ich = Participent "Me"; Agent Mira = Agent; GM# - adaptable for group members)
+Here's how the GPAT works
 
 ![Group-Proximity-Annotation-Tool-for-Human-Agent-Interaction](Demo_Video_GPAT_reduced.gif)
 
