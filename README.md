@@ -1,6 +1,12 @@
 # Group-Proximity-Annotation-Tool-for-Human-Agent-Interaction
 This Python-based tool allows for manual video annotation of group interactions, specifically designed for analyzing spatial behavior in Human-Robot Interaction (HRI) and Human-Agent Interaction, social dynamics and proximity studies. It was developed for studies on **group-agent interactions** and allows manual annotation of proximity zones based on Hall’s proxemic theory (intimate, personal, social, + off-screen).
 
+## 🖱 Demo
+
+Here's how the Group Perception Canvas works in practice (Ich = Participent "Me"; Agent Mira = Agent; GM# - adaptable for group members)
+
+![Group-Proximity-Annotation-Tool-for-Human-Agent-Interaction](Demo_Video_GPAT_reduced.gif)
+
 ## 🎯 Purpose
 
 Designed to support **frame-based manual coding**, this tool allows researchers to:
