@@ -3,10 +3,18 @@ This Python-based tool allows for manual video annotation of group interactions,
 
 ## 🖱 Demo
 
-Here's how the GPAT works
+Here's how the GPAT works:
 
 ![Group-Proximity-Annotation-Tool-for-Human-Agent-Interaction](Demo_Video_GPAT_reduced.gif)
-[The person shown in the video is not a study participant, but a colleague who interacted with the Furhat robot for demonstration purposes. The interaction was recorded in summer 2024 at the Deutsches Museum Bonn during one of the two field studies in which the GPAT was used. The video shows the interaction from two different camera perspectives.]
+
+_The person shown in the video is not a study participant, but a colleague who interacted with the Furhat robot for demonstration purposes. The interaction was recorded in summer 2024 at the [Deutsches Museum Bonn](https://www.deutsches-museum.de/bonn) during one of the two field studies in which the GPAT was used. The video shows the interaction from two different camera perspectives._
+
+![Color-coded floor markers used to visualize the proximity grid](Setup.png)
+
+The image shows the 150×150 cm proximity grid embedded in the exhibition space using color-coded floor markers (based on [1]). These markers were part of the design to subtly integrate spatial structure without explicitly directing participant behavior. The institution's logo was included to blend the grid into the overall exhibition environment.
+
+
+
   
 ## 🎯 Purpose
 
@@ -59,10 +67,8 @@ Results are saved to analysis_results.xlsx in the selected folder.
 # License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
-You are free to share and adapt the material for non-commercial purposes with appropriate attribution.
-
-More info: https://creativecommons.org/licenses/by-nc/4.0/
+You are free to share and adapt the material for non-commercial purposes with appropriate attribution. [More info](https://creativecommons.org/licenses/by-nc/4.0/).
 
 # Acknowledgments
 
-This code was developed as part of Ana Müllers PhD program at at the Cologne Cobots Lab, TH Köln – University of Applied Sciences, Germany within the project “Skilled” [https://www.th-koeln.de/anlagen-energie-und-maschinensysteme/skilled_87008.php]. This research was funded by the Federal Ministry of Education and Research of Germany in the framework FH-Kooperativ 2-2019 (project number 13FH504KX9). We thank our collaboration partners DB Systel GmbH.
+This code was developed as part of Ana Müllers PhD program at at the [Cologne Cobots Lab, TH Köln – University of Applied Sciences](https://www.th-koeln.de/anlagen-energie-und-maschinensysteme/cologne-cobots-lab-startseite_60861.php), Germany within the project [“Skilled”](https://www.th-koeln.de/anlagen-energie-und-maschinensysteme/skilled_87008.php). This research was funded by the Federal Ministry of Education and Research of Germany in the framework FH-Kooperativ 2-2019 (project number 13FH504KX9). We thank our collaboration partners DB Systel GmbH.
