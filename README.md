@@ -12,9 +12,6 @@ _The person shown in the video is not a study participant, but a colleague who i
 ![Color-coded floor markers used to visualize the proximity grid](Setup.png)
 
 The image shows the 150×150 cm proximity grid embedded in the exhibition space using color-coded floor markers (based on [1]). These markers were part of the design to subtly integrate spatial structure without explicitly directing participant behavior. The institution's logo was included to blend the grid into the overall exhibition environment.
-
-
-
   
 ## 🎯 Purpose
 
@@ -52,10 +49,10 @@ GPTA was tested with Python 3.13.1
 	5.	Annotate proximity zone for each person at each interval (i, p, s, or x)
 
  ### 💡 Zone Legend
-i – intimate
-p – personal
-s – social
-x – off-screen / left the area
+-	i – intimate
+-	p – personal
+-	s – social
+-	x – off-screen / left the area
 
 
 Results are saved to analysis_results.xlsx in the selected folder.
